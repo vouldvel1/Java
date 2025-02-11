@@ -1,3 +1,5 @@
+import java.util.ArrayList;
+
 public class Test {
 
     public int square(int num) {
@@ -5,4 +7,8 @@ public class Test {
     }
 
 
+    public void Test(){
+
+        var list = new ArrayList<Integer>();
+    }
 }
